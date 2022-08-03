@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-I am designer and learn Adobe Indesign in templat website.
-=======
+
 I am designer and learn Adobe Indesign
 we create what we need to desgin graphic in website
->>>>>>> d44806b5ecbf92e061d9e7c658d0b83de42d0200
